@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "hono-cloudflare",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-02-12",
+   "vars": {
+     "ENVIRONMENT": "production",
+     "WEBHOOK_VERIFY_TOKEN": "my-secret-token"
+   }
+  
+}
