@@ -5,7 +5,10 @@
   "compatibility_date": "2025-02-12",
    "vars": {
      "ENVIRONMENT": "production",
-     "WEBHOOK_VERIFY_TOKEN": "my-secret-token"
+     "WEBHOOK_VERIFY_TOKEN": "ai-restaurant-token",
+     "GRAPH_API_TOKEN": "EAAQdhG89B2wBO90Da17zi3CCEXG7b1ZAtX4XPZAVYt6BQc43iDzDhNpXoxzTi1sH0KsvMAyH2iVatz085ccw7MhZAZAi3eKR0bK6D2k3iSIKpAPn5jwZAkA6ZCD7dHOos5Ke1s2zxrlW67kmRL19hHsE8NqgN15kh7gUHtNjdkKAtXVZCzADUz9bWhZBrWgZA3PSkRAZDZD",
+     "OPENAI_API_KEY": "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"
+
    }
   
 }
